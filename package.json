@@ -1,0 +1,25 @@
+{
+  "name": "url-params",
+  "version": "1.0.0",
+  "description": "URL-Params Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jase036/url-params.git"
+  },
+  "author": "Jase Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jase036/url-params/issues"
+  },
+  "homepage": "https://github.com/Jase036/url-params#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
